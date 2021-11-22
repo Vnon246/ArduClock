@@ -29,7 +29,7 @@ with limited functions and capacities
 
   [ESP8266 based core]
   
-  [3 modes available]
+  [3 modes available (Temperature, Date, Time)]
   
   [No IoT functions]
 
