@@ -1,5 +1,5 @@
 /*
-    ArduClock V1 by Vnon246
+    ArduClock V1.0 by Vnon246
     Copyright (C) 2021  Vnon246
 
     This program is free software: you can redistribute it and/or modify
@@ -35,7 +35,7 @@ int sw_state = 0; //Auxiliar variable to store the state of SmartSwitch button
 
 //Auxiliar variable for mode selection
 
-int mode = 1;
+int d_mode = 1;
 
 
 //Icons for the differents mode of the device
@@ -105,17 +105,17 @@ void loop() {
 
     delay(500);
 
-    if (mode == 1) {
+    if (d_mode == 1) {
 
-      mode = 2;
+      d_mode = 2;
 
-    } else if (mode == 2) {
+    } else if (d_mode == 2) {
 
-      mode = 3;
+      d_mode = 3;
 
-    } else if (mode == 3) {
+    } else if (d_mode == 3) {
 
-      mode = 1;
+      d_mode = 1;
 
     }
 
@@ -123,7 +123,7 @@ void loop() {
 
   //System function selector
 
-  switch (mode) {
+  switch (d_mode) {
 
     case 1:
 
