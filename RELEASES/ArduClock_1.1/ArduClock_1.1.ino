@@ -27,7 +27,7 @@
 ESP8266WebServer web_ui(80); //Local web server for web GUI
 WiFiManager net_portal; //WiFi manager initialization
 
-String api_url = "http://maker.ifttt.com/trigger/arduclock_notify/with/key/bxSbKPVA0wOmdoA0rVgDa"; //IFTTT API URL
+String api_url = "YOUR IFTTT MAKER URL -> https://ifttt.com/maker_webhooks "; //IFTTT API URL
 
 //RTC Libraries
 
