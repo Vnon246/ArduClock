@@ -40,7 +40,7 @@ with limited functions and capacities
   
    [WiFiManager by tzapu integrated]
     
-   [Personalized web GUI with modes control]
+   [Personalized web GUI]
     
    [IFTTT API based smart-alarm]
 
