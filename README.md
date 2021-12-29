@@ -38,11 +38,11 @@ with limited functions and capacities
   New version of ArduClock proyect with integrated IoT functions
   and a personalized web GUI
   
-    [WiFiManager by tzapu integrated]
+   [WiFiManager by tzapu integrated]
     
-    [Personalized web GUI with modes control]
+   [Personalized web GUI with modes control]
     
-    [IFTTT API based smart-alarm]
+   [IFTTT API based smart-alarm]
 
 
 
