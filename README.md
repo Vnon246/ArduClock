@@ -32,6 +32,17 @@ with limited functions and capacities
   [3 modes available (Temperature, Date, Time)]
   
   [No IoT functions]
+  
+  1.1 -> 29-12-2021
+  
+  New version of ArduClock proyect with integrated IoT functions
+  and a personalized web GUI
+  
+    [WiFiManager by tzapu integrated]
+    
+    [Personalized web GUI with modes control]
+    
+    [IFTTT API based smart-alarm]
 
 
 
