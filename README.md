@@ -1,6 +1,4 @@
-# ArduClock
-
-![ArduClock_logo](https://user-images.githubusercontent.com/45925042/149218852-a29aa864-1d69-45c0-b6a9-0d96ce9a198c.png)
+# ![ArduClock_logo](https://user-images.githubusercontent.com/45925042/149218852-a29aa864-1d69-45c0-b6a9-0d96ce9a198c.png)
 
 Welcome to proyect ArduClock by XT LABS!
 
