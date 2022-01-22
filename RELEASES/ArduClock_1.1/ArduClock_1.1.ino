@@ -27,7 +27,7 @@
 ESP8266WebServer web_ui(80); //Local web server for web GUI
 WiFiManager net_portal; //WiFi manager initialization
 
-String api_url = "YOUR IFTTT MAKER URL -> https://ifttt.com/maker_webhooks "; //IFTTT API URL
+String api_url = "https://maker.ifttt.com/trigger/{event}/with/key/{webhooks_key}"; //IFTTT API URL
 
 //RTC Libraries
 
@@ -356,13 +356,10 @@ String webpanel_data(){
    "footer{"
    "margin: 60px;"
    "}"
-   ".main_header{"
-   "font-size: x-large;"
-   "color: black;"
-   "}"
-   ".secondary_header{"
+   ".version_header{"
    "font-size: small;"
    "color: black;"
+   "text-align: right;"
    "}"
    ".state_header{"
    "text-align: left;"
@@ -430,8 +427,7 @@ String webpanel_data(){
    
    webpanel+= "<body>";
    webpanel+="<header>";
-   webpanel+="<h1 class='main_header'>ArduClock V1</h1>";
-   webpanel+="<h1 class='secondary_header'>By XT LABS</h1>";
+   webpanel+="<img src='https://xtinformatica2.000webhostapp.com/images/ArduClock_logo.png'>";
    webpanel+="</header>";
    webpanel+="<article>";
    webpanel+="<br/>";
@@ -488,6 +484,7 @@ String webpanel_data(){
    webpanel+="</article>";
    webpanel+="<footer>";
    webpanel+="<img src='https://www.gnu.org/graphics/gplv3-with-text-84x42.png'/>";
+   webpanel+="<h2 class='version_header'> V1.1 </h2>";
    webpanel+="</footer>";
    webpanel+="</body>";
    webpanel+="</html>";
