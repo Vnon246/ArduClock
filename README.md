@@ -4,7 +4,7 @@ Welcome to proyect ArduClock by XT LABS!
 
 ArduClock proyect its a completely open-source arduino based smart-clock
 with several functions and modes developed by XT LABS team, it also
-has integrated Bluetooth audio capacities, so you can hear your favorite songs with it!
+has integrated Bluetooth audio capacities, so you can hear your favorite songs with it!*
 
 All the code of the proyect its available below for free and licensed under a GPL V3 license, that means that you can make part of it by helping us debugging code, or even making your own versions! Remember that you are an essential part here
 
@@ -15,7 +15,7 @@ Keep making!
 Vnon246
 
 
-**Some features also requires SmartSwitch to work! Remember to check SmartSwitch
+*Some features also requires SmartSwitch to work! Remember to check SmartSwitch
 proyect before to learn more about this paralel proyect
 
 https://github.com/Vnon246/SmartSwitch
