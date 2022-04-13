@@ -18,11 +18,9 @@ Keep making!
 
 Vnon246
 
-OFFICIAL MANUAL V1 
-https://drive.google.com/file/d/1RZ7Rr59O_ItoIRXsAHz8JtHmrXHSergk/view
-
 *Some features also requires SmartSwitch to work! Remember to check SmartSwitch
 proyect before to learn about this paralel proyect
+
 https://github.com/Vnon246/SmartSwitch
 
 # Releases
