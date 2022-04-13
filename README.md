@@ -14,10 +14,12 @@ Keep making!
 
 Vnon246
 
+
 *Some features also requires SmartSwitch to work! Remember to check SmartSwitch
 proyect before to learn about this paralel proyect
 
 https://github.com/Vnon246/SmartSwitch
+
 
 # Releases
 
