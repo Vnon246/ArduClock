@@ -1,10 +1,16 @@
 # ![ArduClock_logo](https://user-images.githubusercontent.com/45925042/149218852-a29aa864-1d69-45c0-b6a9-0d96ce9a198c.png)
 
+OFFICIAL MANUAL V1: https://drive.google.com/file/d/1RZ7Rr59O_ItoIRXsAHz8JtHmrXHSergk/view
+
 Welcome to proyect ArduClock by XT LABS!
 
-ArduClock proyect its a completely open-source arduino based clock
+ArduClock proyect its a completely open-source arduino based smart-clock
 with several functions and modes developed by XT LABS team, it also
 has integrated Bluetooth audio capacities, so you can hear your favorite songs with it!
+
+Like every smart-clock, ArduClock proyect have some IoT features, like a WebGUI or an
+smart-alarm system*.Check the official manual to learn more about ArduClock features
+and modes
 
 All the code of the proyect its available below for free and licensed under a GPL V3 license, that means that you can make part of it by helping us debugging code, or even making your own versions! Remember that you are an essential part here
 
@@ -14,10 +20,12 @@ Keep making!
 
 Vnon246
 
-*ArduClock also requires SmartSwitch to work! Remember to check SmartSwitch
+
+*Some features also requires SmartSwitch to work! Remember to check SmartSwitch
 proyect before to learn about this paralel proyect
 
 https://github.com/Vnon246/SmartSwitch
+
 
 # Releases
 
