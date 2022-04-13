@@ -1,7 +1,5 @@
 # ![ArduClock_logo](https://user-images.githubusercontent.com/45925042/149218852-a29aa864-1d69-45c0-b6a9-0d96ce9a198c.png)
 
-OFFICIAL MANUAL V1: https://drive.google.com/file/d/1RZ7Rr59O_ItoIRXsAHz8JtHmrXHSergk/view
-
 Welcome to proyect ArduClock by XT LABS!
 
 ArduClock proyect its a completely open-source arduino based smart-clock
@@ -20,12 +18,12 @@ Keep making!
 
 Vnon246
 
+OFFICIAL MANUAL V1 
+https://drive.google.com/file/d/1RZ7Rr59O_ItoIRXsAHz8JtHmrXHSergk/view
 
 *Some features also requires SmartSwitch to work! Remember to check SmartSwitch
 proyect before to learn about this paralel proyect
-
 https://github.com/Vnon246/SmartSwitch
-
 
 # Releases
 
